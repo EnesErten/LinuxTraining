@@ -1,0 +1,6 @@
+start with ^ aaa aab end.
+ant a an an at
+abc abb 
+abbc abb abc 
+abcccc abcc abccc abccccccc abcccc abccccc abcccc 
+
